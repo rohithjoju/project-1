@@ -1,0 +1,58 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url(./pngtree-abstract-pink-memphis-playful-portfolio-image_593421.jpg);
+    color: #333;
+
+}
+
+#header {
+    background-color:gray;
+    color:brown;
+    text-align: center;
+    padding: 20px;
+}
+
+h1 {
+    font-size: 2em;
+}
+
+p {
+    line-height: 1.6;
+}
+
+.section {
+    max-width: 500px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color:gray;
+    border-radius: 1em;
+    
+}
+#f{
+    margin-left: 550px;
+    color: black;
+
+}
+
+
+
+
+h2 {
+    color: brown;
+    
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 20px;
+}
+#s
+{
+    font-size: 50px;
+}
+
+
+
